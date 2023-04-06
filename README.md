@@ -1,2 +1,2 @@
 # arduino
-Simple arduino projects
+Simple arduino sketches
