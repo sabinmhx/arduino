@@ -11,6 +11,6 @@ void loop() {
   int val = analogRead(POTPIN);
   int servoValue = map(val, 0 , 1023, 0, 180);
   myservo.write(servoValue);
-  delay(500);'
+  delay(500);
   Serial.println(val);
 }
