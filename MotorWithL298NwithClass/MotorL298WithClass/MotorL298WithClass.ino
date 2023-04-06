@@ -24,7 +24,9 @@ class Motor{
     this->M2 = M2;
   }
 };
-Motor m(2,3);
+#define N1 2
+#define N2 3
+Motor m(N1, N3);
 
   void setup() {
     // put your setup code here, to run once
