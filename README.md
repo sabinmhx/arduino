@@ -1,2 +1,2 @@
-# arduino
-Simple arduino sketches
+# Arduino
+Collection of Simple arduino sketches
